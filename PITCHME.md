@@ -6,6 +6,9 @@
 
 ![](assets/img/presentation.png)
 
+NOTE:
+- testest
+- 222
 ---
 @title[Customize Slide Layout]
 
