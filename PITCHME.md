@@ -91,7 +91,9 @@ Actor
 
 ---
 
+@snap[north-west span-40]
 ## Akka
+@snapend
 
 - toolkit and runtime for managing concurrency
 - actor model
@@ -107,7 +109,7 @@ Note:
 
 ---
 
-@snap[north-west span-55]
+@snap[north-west span-40]
 ## Actor Model
 @snapend
 
@@ -120,7 +122,9 @@ Actor
 
 ---
 
+@snap[north-west span-40]
 ## Actor
+@snapend
 
 - send message
 - receive message
