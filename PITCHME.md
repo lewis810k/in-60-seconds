@@ -86,12 +86,12 @@ Actor
 
 ---
 
-java thread model
+## java thread model
 - 
 
 ---
 
-Akka
+## Akka
 
 - toolkit and runtime for managing concurrency
 - actor model
@@ -107,7 +107,7 @@ Note:
 
 ---
 
-Actor Model
+## Actor Model
 
 Actor
 - behavior
@@ -118,7 +118,7 @@ Actor
 
 ---
 
-Actor
+## Actor
 
 - send message
 - receive message
