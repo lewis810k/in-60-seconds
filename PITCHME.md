@@ -107,7 +107,7 @@ Note:
 
 ---
 
-@snap[west span-55]
+@snap[north-west span-55]
 ## Actor Model
 @snapend
 
