@@ -107,7 +107,9 @@ Note:
 
 ---
 
+@snap[west span-55]
 ## Actor Model
+@snapend
 
 Actor
 - behavior
